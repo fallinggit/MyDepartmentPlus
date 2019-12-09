@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b7703d1-99e1-4b68-85cb-664ef02a98e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MyBatisCodeHelperDatasource.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MyBatisCodeHelperDatasource.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/scorpio/mydepartment/plus/domain/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scorpio/mydepartment/plus/domain/Article.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/scorpio/mydepartment/plus/mapper/ArticleMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scorpio/mydepartment/plus/mapper/ArticleMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/scorpio/mydepartment/plus/service/ArticleServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/scorpio/mydepartment/plus/service/impl/ArticleService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/ArticleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/ArticleMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MyDepartmentPlus.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/scorpio/mydepartment/plus/MyDepartmentPlusApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/scorpio/mydepartment/plus/domain/Article.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/scorpio/mydepartment/plus/mapper/ArticleMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/scorpio/mydepartment/plus/service/ArticleServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/scorpio/mydepartment/plus/service/impl/ArticleService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/generator/generatorConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jdbc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mapper/ArticleMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tk/mybatis/mapper/MyMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/scorpio/mydepartment/plus/MyDepartmentPlusApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/scorpio/mydepartment/plus/MyDepartmentPlusApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/scorpio/mydepartment/plus/MyDepartmentPlusApplicationTests.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -248,6 +229,7 @@
       <updated>1575850183667</updated>
       <workItem from="1575850187490" duration="18448000" />
       <workItem from="1575893836196" duration="2794000" />
+      <workItem from="1575897362727" duration="20000" />
     </task>
     <servers />
   </component>
@@ -259,7 +241,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

@@ -23,8 +23,8 @@ import java.util.List;
  */
 @RunWith(SpringRunner.class)
 @SpringBootTest
-//@Transactional
-//@Rollback
+@Transactional
+@Rollback
 public class MyDepartmentPlusApplicationTests {
 
     @Autowired
