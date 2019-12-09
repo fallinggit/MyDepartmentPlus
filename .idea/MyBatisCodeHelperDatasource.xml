@@ -24,9 +24,9 @@
                   <option name="javaMapperPath" value="$PROJECT_DIR$/src/main/java" />
                   <option name="javaModelPacakge" value="com.scorpio.mydepartment.plus.domain" />
                   <option name="javaModelPath" value="$PROJECT_DIR$/src/main/java" />
-                  <option name="javaServiceInterfacePackage" value="com.scorpio.mydepartment.plus.service.impl" />
+                  <option name="javaServiceInterfacePackage" value="com.scorpio.mydepartment.plus.service" />
                   <option name="javaServiceInterfacePath" value="$PROJECT_DIR$/src/main/java" />
-                  <option name="javaServicePackage" value="com.scorpio.mydepartment.plus.service" />
+                  <option name="javaServicePackage" value="com.scorpio.mydepartment.plus.service.impl" />
                   <option name="javaServicePath" value="$PROJECT_DIR$/src/main/java" />
                   <option name="xmlPackage" value="mapper" />
                   <option name="xmlPath" value="$PROJECT_DIR$/src/main/resources" />
